@@ -51,7 +51,7 @@ proto_amneziawg_is_kernel_mode() {
 		return 0
 	fi
 }
-
+xdd
 proto_amneziawg_setup_peer() {
 	local peer_config="$1"
 
